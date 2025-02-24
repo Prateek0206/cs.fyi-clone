@@ -1,0 +1,48 @@
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  
+
+  align-items: center;
+}
+
+.header-flex nav {
+  display: flex;
+  gap: 1rem;
+ 
+}
+
+.header-flex a{
+    text-decoration: none;
+    color: #A3A3A3;
+}
+
+.header-flex :hover{
+    color:  white;
+}
+
+.site-logo img {
+  height: 1.6rem;
+}
+
+.hero{
+    padding-top: 2.5rem;
+}
+.hero .website-name{
+    color: white;
+    
+    font-size:7rem ;
+}
+
+.hero .title-explore{
+    font-size: 4rem;
+    color: white;
+  }
+
+.hero p{
+    color: #A3A3A3;
+    font-size: 1.1rem;
+}
+
+
+
